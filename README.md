@@ -1,2 +1,2 @@
 # Backend-Shopify
-A backend for shopping cart
+A backend in node js for shopping cart
